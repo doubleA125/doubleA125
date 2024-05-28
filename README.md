@@ -1,4 +1,4 @@
-(https://github.com/doubleA125/doubleA125/files/15472400/README.md)<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding gif">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding gif">
 <h3 align="center">
 Hi there, I'm Abdelrahman Atef! 
 
