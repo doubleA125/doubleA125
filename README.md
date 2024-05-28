@@ -16,4 +16,3 @@ Hi there, I'm Abdelrahman Atef!
 
 
 <a href="https://www.facebook.com/abdelrahman.atef" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
-" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
