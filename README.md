@@ -1,6 +1,6 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding gif">
 <h3 align="center">
-Hi there, I'm Abdelrahman Atef! 👋<p><a href="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3bu85lsWhBTlWcOMN6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-3bu85lsWhBTlWcOMN6">via GIPHY</a></p>"></a></p>
+Hi there, I'm Abdelrahman Atef! 👋<p><a href="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3bu85lsWhBTlWcOMN6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-3bu85lsWhBTlWcOMN6">via GIPHY</a></p>
 </h3>
 <!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
