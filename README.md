@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding gif">
 <h3 align="center">
 Hi there, I'm Abdelrahman Atef! 👋
-<p><a=href="https://giphy.com/gifs/nuevofoundation-nuvi-24652QfeZzNIPzoH36">via GIPHY></a></p>
+<p><a=href="https://giphy.com/gifs/nuevofoundation-nuvi-24652QfeZzNIPzoH36"></a></p>
 </h3>
 <!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
