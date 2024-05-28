@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding gif">
 <h3 align="center">
 Hi there, I'm Abdelrahman Atef! 👋
-<iframe src="https://giphy.com/embed/24652QfeZzNIPzoH36" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nuevofoundation-nuvi-24652QfeZzNIPzoH36">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/24652QfeZzNIPzoH36" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a> href="https://giphy.com/gifs/nuevofoundation-nuvi-24652QfeZzNIPzoH36">via GIPHY</a></p>
 </h3>
 <!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
