@@ -12,12 +12,12 @@ Hi there, I'm Abdelrahman Atef!
 🚀I'm a passionate Programming Diploma Student with a keen interest in software development and technology. I enjoy exploring new programming languages, frameworks, and tools to create innovative solutions. Currently, I'm focused on enhancing my skills in both frontend and backend development.
 
 <h2>my last projects</h2>
-✅calorie tracker
-✅minecraft-clone python project
-✅two portoflios
-✅smplifing a about 86k lines of code for a company to about 40k with adding new properties
+✅calorie tracker<br>
+✅minecraft-clone python project<br>
+✅two portoflios<br>
+✅smplifing a about 86k lines of code for a company to about 40k with adding new properties<br>
 <h1>errors from github and good things</h1>
-✅i want a community of python for a question
+✅i want a community of python for a question<br>
 ❌github error for with my projects so when i was updating my portoflio i but this small project about clicker but i does not love this clicker project
 
 ![github1](https://github.com/doubleA125/doubleA125/assets/171048131/cbc36572-ce3a-40eb-b4a6-36e13f5cd6b1)
