@@ -4,12 +4,12 @@ Hi there, I'm Abdelrahman Atef!
 
 
 </h3>
-<!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64F7C9&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" </a>
 </p>
 <h2>🙋‍♂️About Me</h2>
-🚀I'm a passionate Programming Diploma Student with a keen interest in software development and technology. I enjoy exploring new programming languages, frameworks, and tools to create innovative solutions. Currently, I'm focused on enhancing my skills in both frontend and backend development.
+🚀I'm a passionate Frontend developer with a keen interest in software development and technology. I enjoy exploring new programming languages, frameworks, and tools to create innovative solutions. Currently, I'm focused on enhancing my skills in both frontend and backend development.
 
 <h2>my last projects</h2>
 ✅calorie tracker<br>
